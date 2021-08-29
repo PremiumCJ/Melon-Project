@@ -30,3 +30,8 @@
 * 작사/작곡/편곡 분석
 * 가사분석
 * 발매일 전략
+
+### 데이터 출처 : https://www.melon.com/
+### 프로젝트 참여원 : 김찬종 장윤재 정지수 채효진
+### 담당한 분석 파트 : 가사 분석
+### 사용한 라이브러리 : pandas, numpy, matplotlib.pyplot, matplotlib.ticker, seaborn, wordcloud, konlpy.tag, collections, nltk
